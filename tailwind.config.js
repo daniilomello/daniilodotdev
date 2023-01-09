@@ -13,6 +13,11 @@ module.exports = {
       '5xl': '3rem',
       '6xl': '4rem',
     },
+    fontFamily: {
+      sans: ["'Mulish'", 'ui-sans-serif', 'system-ui'],
+      display: ["'Mulish'"],
+      body: ['"Mulish"'],
+    },
     extend: {
       colors: {
         gray: {
